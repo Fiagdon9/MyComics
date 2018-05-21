@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyComics</string>
+    <string name="view_pager">ViewPager</string>
+    <string name="recycler_view">RecyclerView</string>
+    <string name="snack_bar">SnackBar</string>
+    <string name="toast">Toast</string>
+    <string name="quit">Quit</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+</resources>
